@@ -1,0 +1,23 @@
+
+div{
+     margin-top: 10px;
+     text-align: center;
+   }
+.empty-space{
+  min-height: 200px;
+}
+
+.nav li{
+  display: inline;
+  padding: 20px;
+  font-size: 25px;
+  background-color: blue;
+}
+.image{
+  padding-top: 40px;
+  padding-bottom: 50px;
+  image: url("")
+}
+.empty-space{
+  min-height: 400px;
+}
