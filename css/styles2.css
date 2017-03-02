@@ -1,23 +1,55 @@
-
-div{
+h1{
+  font-family: 'Amatic SC', cursive;
+  font-size: 60px;
+  text-align: center;
+}
+h2{
+  font-family: 'Amatic SC', cursive;
+  font-size: 40px;
+  text-align: center;
+}
+.picture{
      margin-top: 10px;
      text-align: center;
-   }
+}
 .empty-space{
   min-height: 200px;
 }
 
 .nav li{
   display: inline;
-  padding: 20px;
   font-size: 25px;
   background-color: blue;
+  text-align: center;
 }
-.image{
-  padding-top: 40px;
-  padding-bottom: 50px;
-  image: url("")
+.left-nav{
+  text-align: center;
+}
+.center-nav{
+  text-align: center;
+}
+.right-nav{
+  text-align: center;
+}
+.title{
+  text-align: center;
 }
 .empty-space{
   min-height: 400px;
+}
+.image{
+  text-align: left;
+}
+.title-about{
+  text-align: center;
+}
+.box-one{
+  position: absolute;
+  left: 20px;
+}
+.box-two{
+      position: absolute;
+      right: 300px;
+      width: 400px;
+      height: 40px;
 }
