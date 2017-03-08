@@ -70,11 +70,11 @@ p{
 }
 .box-one{
   position: absolute;
-  left: 20px;
+  left: 150px;
 }
 .box-two{
       position: absolute;
-      right: 300px;
+      right: 230px;
       width: 400px;
       height: 40px;
 }
@@ -91,10 +91,11 @@ p{
   text-align: center;
 }
 .footer-about{
-  position: center;
   position: absolute;
   text-align: center;
   background: black;
   margin-top: 20px;
   bottom: -90px;
+  right: 0px;
+  left: 0px;
 }
